@@ -1,1 +1,10 @@
-Jacob
+print("football score")
+print("")
+Team1name = "Aresnal"
+Team2name = "Spurs"
+
+Team1goals = 5000000000000
+Team2goals = 0
+
+print(Team1name,"vs",Team2name)
+print(Team1name,Team1goals,"-",Team2name,Team2goals)
