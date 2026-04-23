@@ -2,9 +2,12 @@
 
 2. word = "banana"
 count = 0 
-if char == "a": 
 for char in word: 
+if char == "a": 
 count = count + 1 
 print(count) 
 
- 
+ 3. for character in "Snolax": 
+     print(character)
+
+4.
