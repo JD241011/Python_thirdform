@@ -1,0 +1,26 @@
+1. 1,2,3,4,5, 
+
+2. write out all the numbers between 2,3,4,5,6 
+   for i in range(1, 7):  
+    print(i) 
+
+3.number = int(input("Enter a number: "))  
+  for i in range(number): 
+  print("Go!") 
+
+ 4. 3,6,9 because these numbers all can be divided by 3 
+
+5. for i in range(1,11):
+     print(i)
+    if i % 2 == 0:
+       print("even")
+
+
+5B. for i in range(1,11):
+     print(i)
+    if i % 2 == 0:
+       print("even")
+    else:
+        print("Odd")
+
+ 
