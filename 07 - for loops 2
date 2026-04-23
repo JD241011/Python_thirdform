@@ -1,0 +1,10 @@
+1. c a t
+
+2. word = "banana"
+count = 0 
+if char == "a": 
+for char in word: 
+count = count + 1 
+print(count) 
+
+ 
